@@ -8,6 +8,19 @@ ADA Address: `addr1v8gx05mfyu6mct865ehq2t3mnn5qsuzgfnu3flfu9jau9hcs2mhxu`
 
 This is a project that helps researchers put their papers in the chain of IPFS. Without no restriction whatsoever. Uses blockfrost IPFS.
 
+## Tesch stach used.
+
+Front-end:
+
+- ReactJs
+- React-Bootstrap
+
+Back-end:
+
+- NodeJs
+- blockfrost/blockfrost-js
+- ExpressJs
+
 Features:
 
 - Upload papers to IPFS
